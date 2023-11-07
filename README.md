@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ReisRex
+- 🌱 I’m currently learning how to perform analysis on stocks by using python
